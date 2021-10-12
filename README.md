@@ -10,5 +10,5 @@
 <!-- Headings -->
 # New York Sports Teams
 
-<!-- Website description
-The website will be a fan page for NY sports teams. The hope is that we can make the page show the history of the teams and also show the modern situations of current teams. The website will intend to show the accolades the teams have accrued over the years and show notable events that have happened for each franchise. if possible id like to implement a sports tracker to show current scores if games are being played. -->
+** Website description**
+The website will be a fan page for NY sports teams. The hope is that we can make the page show the history of the teams and also show the modern situations of current teams. The website will intend to show the accolades the teams have accrued over the years and show notable events that have happened for each franchise. if possible id like to implement a sports tracker to show current scores if games are being played.
