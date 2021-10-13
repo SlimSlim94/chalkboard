@@ -9,8 +9,8 @@
 
 (Avishai Rostamian)
 - I learned how helpful it can be to actually visiualize a website and put it down on paper. This can help with the logistics, organization, and overall layout of how the page will be formatted. The flow as well put all the puzzle pieces together in terms of how our pages will combine into one website. All in all I enjoyed this segment of the project and will continue this process moving forward in my career.
- 
-<h2>Sitemap and wireframes</h2> 
+
+<h2>Sitemap and wireframes</h2>
 <br>
 
 <!--Links-->
@@ -36,4 +36,7 @@
 
 **Professor View wireframe**
 ![Prof View wireframe](https://github.com/SlimSlim94/chalkboard/blob/f1b3b6b25f14f8d0c713cd6a4c2d36a3ce827063/WireframeProfessor.jpg)
+
+**Admin View wireframe**
+![admin view wireframe](https://github.com/SlimSlim94/chalkboard/blob/115748a2eb0a706f2f49605ad9bcf09ec5b4ec4a/adminView.jpg)
 <!-- Headings -->
